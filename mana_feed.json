@@ -1,25 +1,12 @@
 {
-    "version": 2,
+    "version": 3,
     "last_updated": "2026-01-11",
-    "items": [
-        {
-            "id": "new_6",
-            "type": "tip",
-            "title": {
-                "default": "Test",
-                "pt_BR": "adsadas",
-                "en_US": "dsadsa",
-                "es_ES": "dsadasdas"
-            },
-            "url": "HAHAHAHHA"
-        },
-        {
-            "id": "new_1",
-            "type": "tip",
-            "title": {
-                "default": "Nova Notícia"
-            },
-            "url": ""
-        }
-    ]
+    "config": {
+        "url_youtube": "https://www.youtube.com/@KozaKBR2",
+        "url_kofi": "https://ko-fi.com/manaos",
+        "url_livepix": "https://livepix.gg/gamesynctool",
+        "url_site_free": "https://cristhiano.com/tutorial-gratis",
+        "url_blog": "https://cristhiano.com"
+    },
+    "items": []
 }

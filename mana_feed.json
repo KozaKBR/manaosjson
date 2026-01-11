@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "last_updated": "2026-01-11",
+    "items": [
+        {
+            "id": "new_6",
+            "type": "tip",
+            "title": {
+                "default": "Test",
+                "pt_BR": "adsadas",
+                "en_US": "dsadsa",
+                "es_ES": "dsadasdas"
+            },
+            "url": "HAHAHAHHA"
+        },
+        {
+            "id": "new_1",
+            "type": "tip",
+            "title": {
+                "default": "Nova Notícia"
+            },
+            "url": ""
+        }
+    ]
+}
